@@ -1,0 +1,12 @@
+tensorflow>=2.16
+torch>=2.2
+torchvision>=0.17
+torchinfo
+kagglehub
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+pillow
+jupyter
